@@ -22,3 +22,5 @@ Thank you to mkyung [https://github.com/mkyung] for creating the base code for t
 
 Do NOT use this addon for navigation or in a practical way. It is just for entertainment use. 
 Some of the maps are not up-to-date and may contain errors.
+
+`javascript:(function() {$('body').append("<script src='https://raw.githack.com/HacobAllon/FlightRadar24-Manila-Overlay/main/js/fr24-airport-overlay-data.js'></script>");setTimeout(function() {$('body').append("<script src='https://raw.githack.com/HacobAllon/FlightRadar24-Manila-Overlay/main/js/fr24-airport-overlay.js' id='fr24-airport-overlay'></script>");}, 100);})();`
