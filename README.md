@@ -5,7 +5,7 @@
 
 ### Background:
 Inspired by [Hong Kong FIR (VHHK) FR24 Overlay](https://github.com/microtony/fr24-overlay-vhhk)
-And by [mkyung https://github.com/mkyung/Flightradar24-airport-overlay]
+And by [mkyung](https://github.com/mkyung/Flightradar24-airport-overlay)
 
 This addon aims to label taxiways, runways and other visual markings on Flightradar24. 
 
