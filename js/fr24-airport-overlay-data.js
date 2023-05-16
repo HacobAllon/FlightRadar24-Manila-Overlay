@@ -78,10 +78,10 @@ var fr24_airport_overlay_data = [
 		image: "CYYC.png"
 	},
 	{
-		neBoundLat = 14.528867,
-		neBoundLng = 121.032525,
-		swBoundLat = 14.49545,
-		swBoundLng = 120.99715;
+		neBoundLat: 14.528867,
+		neBoundLng: 121.032525,
+		swBoundLat: 14.49545,
+		swBoundLng: 120.99715,
 		name: "Manila International Airport",
 		IATA: "MNL",
 		ICAO: "RPLL",
