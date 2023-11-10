@@ -13,7 +13,7 @@ This addon aims to label taxiways, runways and other visual markings on Flightra
 
 Drag this code into the bookmark bar or add as a bookmark
 
-`javascript:(function() {$('body').append("<script src='https://raw.githubusercontent.com/HacobAllon/FlightRadar24-Manilaa-Overlay/main/js/fr24-airport-overlay-data.js'></script>");setTimeout(function() {$('body').append("<script src='https://raw.githack.com/HacobAllon/FlightRadar24-Manila-Overlay/main/js/fr24-airport-overlay.js' id='fr24-airport-overlay'></script>");}, 100);})();`
+`javascript:(function() {$('body').append("<script src='https://raw.githubusercontent.com/HacobAllon/FlightRadar24-Manilaa-Overlay/main/js/fr24-airport-overlay-data.js'></script>");setTimeout(function() {$('body').append("<script src='https://raw.githubusercontent.com/HacobAllon/FlightRadar24-Manila-Overlay/main/js/fr24-airport-overlay.js' id='fr24-airport-overlay'></script>");}, 100);})();`
 
 Press the bookmark while you are on Flightradar24 main [page](http://www.flightradar24.com/). It would take a few seconds to load airport diagrams 
 ### Credits:
